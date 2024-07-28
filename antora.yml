@@ -1,0 +1,6 @@
+name: demo-document
+title: Demo Document
+version: 2.5
+prerelease: -beta.1
+nav:
+- doc/nav.adoc
